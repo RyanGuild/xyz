@@ -1,3 +1,6 @@
 [submodule "web"]
 	path = web
 	url = ./web
+[submodule "cluster"]
+	path = cluster
+	url = ./cluster
