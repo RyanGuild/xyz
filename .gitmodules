@@ -1,0 +1,9 @@
+[submodule "apps/web"]
+	path = apps/web
+	url = git@github.com:RyanGuild/xyz-web.git
+[submodule "cluster"]
+	path = cluster
+	url = git@github.com:RyanGuild/xyz-cluster.git
+[submodule "packs/vanillaplus"]
+	path = packs/vanillaplus
+	url = git@github.com:RyanGuild/xyz-packs-vanillaplus.git
